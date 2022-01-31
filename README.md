@@ -1,4 +1,4 @@
-# The Teivia Game
+# The Trivia Game
 
 This is a free trivia game made with React and CSS.
 

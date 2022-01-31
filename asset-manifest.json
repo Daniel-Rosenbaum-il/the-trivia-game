@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/the-trivia-game/static/css/main.cc6d62e6.css",
+    "main.js": "/the-trivia-game/static/js/main.acc2d8d0.js",
+    "static/media/30-seconds.svg": "/the-trivia-game/static/media/30-seconds.38a8079246b7d80eb799bb381d83db59.svg",
+    "static/media/ask-audience.svg": "/the-trivia-game/static/media/ask-audience.ea0a8a022d2ede82fb61cb09ce7e56cc.svg",
+    "static/media/50-percent.svg": "/the-trivia-game/static/media/50-percent.c7dd2eb9ddf0c50cb46a5f501fd5fd27.svg",
+    "index.html": "/the-trivia-game/index.html",
+    "main.cc6d62e6.css.map": "/the-trivia-game/static/css/main.cc6d62e6.css.map",
+    "main.acc2d8d0.js.map": "/the-trivia-game/static/js/main.acc2d8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6d62e6.css",
+    "static/js/main.acc2d8d0.js"
+  ]
+}
